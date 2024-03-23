@@ -35,7 +35,7 @@ header{
     margin-top: -5%;
     background: #FF0099;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #493240, #ff009959);  
-    background: linear-gradient(to right, #493240, #ff009954), (url/port2.jpg); 
+    background: linear-gradient(to right, #493240, #ff009954),url(../index.html/port2.jpg);
     background-size: cover;
     background-attachment: fixed;
     position: relative;
@@ -67,7 +67,7 @@ header{
 
     background: #ff009942;
     background: -webkit-linear-gradient(to right, #493240, #ff009959);  
-    background: linear-gradient(to right, #493240, #ff009954), url/index.html/port2.jpg;
+    background: linear-gradient(to right, #493240, #ff009954), url.md(/../../index.html/port2.jpg);
     animation: wave 10s linear infinite;
 
  }
