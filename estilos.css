@@ -35,7 +35,7 @@ header{
     margin-top: -5%;
     background: #FF0099;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #493240, #ff009959);  
-    background: linear-gradient(to right, #493240, #ff009954), url(../index/port2.jpg);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #493240, #ff009954), <img src="port2.jpg" alt=>;/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
     position: relative;
